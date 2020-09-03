@@ -3903,8 +3903,10 @@ mdn-data@2.0.6:
   resolved "https://registry.yarnpkg.com/mdn-data/-/mdn-data-2.0.6.tgz#852dc60fcaa5daa2e8cf6c9189c440ed3e042978"
   integrity sha512-rQvjv71olwNHgiTbfPZFkJtjNMciWgswYeciZhtvWLO8bmX3TnhyA62I6sTWOyZssWHJJjY6/KiWwqQsWWsqOA==
 
-"mekari-ui-toolkit@file:../mekari-ui-toolkit":
-  version "1.0.7"
+mekari-ui-toolkit@^1.0.8:
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/mekari-ui-toolkit/-/mekari-ui-toolkit-1.0.8.tgz#fab8c5f5b788ec884ba1d0963febacbabad3e581"
+  integrity sha512-Ghk9L07vIeJZQNoRzpsx1CtYEJrxU0CE5pzA84xrKShIEkJbNeK8GedQOfAwl3f6F0fPFRsdV5mJoitueGFISA==
 
 merge-source-map@1.0.4:
   version "1.0.4"
