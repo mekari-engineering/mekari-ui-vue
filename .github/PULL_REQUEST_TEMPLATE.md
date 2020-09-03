@@ -14,6 +14,6 @@
 
 ## Definition of Done:
 
-[v] Does this PR require a regression test by QA ? All fixes require a regression test.
+- [x] Does this PR require a regression test by QA ? All fixes require a regression test.
 
-[x] Does this add new dependencies? (network setup, new 3rd party services)
+- [x] Does this add new dependencies? (network setup, new 3rd party services)
