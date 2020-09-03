@@ -1,0 +1,4 @@
+.cache
+.parcel-cache
+test/build
+node_modules
